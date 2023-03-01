@@ -1,5 +1,5 @@
 # README
-"Welcome to our animal wear ecommerce site project! This is a platform where animal lovers can purchase a wide range of clothing, accessories and pet food for their furry friends."
+"Welcome to our animal wear e-commerce site project! This is a platform where animal lovers can purchase a wide range of clothing, accessories and pet food for their furry friends."
 ![ss1](https://user-images.githubusercontent.com/76099218/222192693-34794718-c564-48b9-9402-7bc55acf360b.PNG)
 
 Features of X|O Pet Application: 1. Our ecommerce site offers a wide range of products for cats and dogs, including sweaters, t-shirts, collars, leashes, and more.                                        2. Customers can easily search for products using our search bar, filter by size and color, and add items to their cart for easy                                             checkout.
